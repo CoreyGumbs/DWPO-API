@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/SonofLight/DWPO-API#readme",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "expect": "^1.14.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
   }
 }
